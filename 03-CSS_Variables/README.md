@@ -5,7 +5,8 @@
 
 This is an HTML page enable users to edit a photo through CSS variables and filters.
 
-
+## Demo
+view demo [here](https://huiclaire.github.io/JavaScript30/02-JS_and_CSS_Clock/index-Claire.html)
 
 ## Lesson learned
 
