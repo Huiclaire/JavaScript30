@@ -3,6 +3,8 @@
 # 05- Flex Panels Image Gallery
 Use flexbox to display images in a panel gallery. Once clicked, the image will expand and the words appear from top and the bottom.
 
+## Demo
+view demo [here](https://huiclaire.github.io/JavaScript30/05-Flex_Panel_Gallery/index-Claire.html)
 
 ## Lesson learned
 - `flex`
