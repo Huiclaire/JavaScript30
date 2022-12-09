@@ -5,6 +5,8 @@
 
 This is an HTML page to display an analog clock.
 
+## Demo
+view demo [here](https://huiclaire.github.io/JavaScript30/02-JS_and_CSS_Clock/index-Claire.html)
 
 ## Lesson learned
 
