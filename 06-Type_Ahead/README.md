@@ -4,7 +4,8 @@
 # 06- Ajax Type Ahead
 Filter through a JSON based on what is being typed
 
-
+## Demo
+view demo [here](https://huiclaire.github.io/JavaScript30/06-Type_Ahead/index-Claire.html)
 
 ## Lesson learned
 
