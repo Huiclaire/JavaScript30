@@ -1,9 +1,10 @@
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/image/js30-day4.png)
+
+
 # 04- Array Cardio Day 4
 Perform basic operations 
 ```(console.table(), filter(), map(), sort(), reduce()``` 
 on JS Arrays.
-
-![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/image/js30-day4.png)
 
 
 ## Lesson learned
