@@ -3,7 +3,7 @@
 This is a JavaScript practice with JavaScript30 by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries.
 
 ## Demo
-view demo [here](https://huiclaire.github.io/JavaScript30/01-JavaScript_Drum_Kit/index-Claire.html)
+view demo [here](https://huiclaire.github.io/JavaScript30/)
 
 ## Table of Content
 1. [Javascript Drum Kit](https://github.com/Huiclaire/JavaScript30/tree/master/01-JavaScript_Drum_Kit)
