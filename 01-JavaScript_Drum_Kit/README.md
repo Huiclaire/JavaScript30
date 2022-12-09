@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/images/js30-day1.png)
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/01-JavaScript_Drum_Kit/images/js30-day1.png)
 
 
 # 01- Drum Kit
