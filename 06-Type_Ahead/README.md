@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/06%20-%20Type%20Ahead/images/ja30-day6.png)
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/06-Type_Ahead/images/ja30-day6.png)
 
 
 # 06- Ajax Type Ahead

@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/03%20-%20CSS%20Variables/image/js30-day3.png)
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/03-CSS_Variables/image/js30-day3.png)
 
 
 # 03- CSS Variables and JS

@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/02%20-%20JS%20and%20CSS%20Clock/images/js30-day2.png)
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/02-JS_and_CSS_Clock/images/js30-day2.png)
 
 
 # 02- JS + CSS Clock
