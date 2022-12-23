@@ -1,7 +1,7 @@
-![App Screenshot]()
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/08-Fun_with_HTML5_Canvas/images/js30-day8.png)
 
 # 08- Array Cardio Day 2
-Have dynamic fun in a HTML5 Canvas
+Have dynamic fun in a HTML5 Canvas.
 
 ## Demo
 view demo [here]()
