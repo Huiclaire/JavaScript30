@@ -24,7 +24,7 @@ const isAdult = people.some(function(person) {
     return true;
   }
 });
-```
+```javascript
 rewrite above in ES6 syntax:
 ```javascript
 const isAdult = people.some(person => (new Date()).getFullYear() - person.year >= 19);
@@ -61,7 +61,7 @@ comments.splice(index, 1); // will change content of the origin array
 ```
 `splice()`syntax:
 
-```
+```javascript
 splice(start, deleteCount, item1)
 ```
 - Remove (deleteCount) elements before index (start), and insert "item1"
@@ -77,7 +77,7 @@ const newComments = [
 ];
 ```
 `slice` syntax:
-```
+```javascript
 slice()
 slice(start)
 slice(start, end)
