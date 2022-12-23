@@ -4,7 +4,7 @@
 Have dynamic fun in a HTML5 Canvas.
 
 ## Demo
-view demo [here]()
+view demo [here](https://huiclaire.github.io/JavaScript30/08-Fun_with_HTML5_Canvas/index-Claire.html)
 
 ## Lesson learned
 
