@@ -13,7 +13,7 @@ view demo [here](https://huiclaire.github.io/JavaScript30/)
 5. [Flex Panels Image Gallery](https://github.com/Huiclaire/JavaScript30/tree/master/05-Flex_Panel_Gallery)
 6. [Ajax Type Ahead](https://github.com/Huiclaire/JavaScript30/tree/master/06-Type_Ahead)
 7. [Array Cardio Day 2](https://github.com/Huiclaire/JavaScript30/tree/master/07-Array_Cardio_Day_2)
-8. Fun with HTML5 Canvas
+8. [Fun with HTML5 Canvas](https://github.com/Huiclaire/JavaScript30/tree/master/08-Fun_with_HTML5_Canvas)
 9. 14 Must Know Dev Tools Tricks
 10. Hold Shift to Check Multiple Checkboxes
 11. Custom Video Player
