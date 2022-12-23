@@ -4,7 +4,7 @@
 Perform more operations on JavaScript Arrays.
 
 ## Demo
-view demo [here]()
+view demo [here](https://huiclaire.github.io/JavaScript30/07-Array_Cardio_Day_2/index-Claire.html)
 
 ## Lesson learned
 
