@@ -1,4 +1,4 @@
-![App Screenshot]
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/07-Array_Cardio_Day_2/images/ja30-day7.png)
 
 # 07- Array Cardio Day 2
 Perform more operations on JavaScript Arrays.
