@@ -4,7 +4,7 @@
 Attributes Modification on an element and bunch of console tricks
 
 ## Demo
-view demo [here]()
+view demo [here](https://huiclaire.github.io/JavaScript30/09-Dev_Tools_Domination/index-Claire.html)
 
 
 ## Lesson learned
