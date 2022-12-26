@@ -14,7 +14,7 @@ view demo [here](https://huiclaire.github.io/JavaScript30/)
 6. [Ajax Type Ahead](https://github.com/Huiclaire/JavaScript30/tree/master/06-Type_Ahead)
 7. [Array Cardio Day 2](https://github.com/Huiclaire/JavaScript30/tree/master/07-Array_Cardio_Day_2)
 8. [Fun with HTML5 Canvas](https://github.com/Huiclaire/JavaScript30/tree/master/08-Fun_with_HTML5_Canvas)
-9. 14 Must Know Dev Tools Tricks
+9. [14 Must Know Dev Tools Tricks](https://github.com/Huiclaire/JavaScript30/tree/master/09-Dev_Tools_Domination)
 10. Hold Shift to Check Multiple Checkboxes
 11. Custom Video Player
 12. Key Sequence Detection (KONAMI CODE)
