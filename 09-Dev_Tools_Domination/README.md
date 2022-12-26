@@ -1,4 +1,4 @@
-![App Screenshot]()
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/09-Dev_Tools_Domination/images/js30-day9.png)
 
 # 09- 14 Must Know Dev Tools Tricks
 Attributes Modification on an element and bunch of console tricks
