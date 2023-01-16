@@ -1,8 +1,7 @@
-![App Screenshot]
+![App Screenshot](https://github.com/Huiclaire/JavaScript30/blob/master/10-Hold_Shift_and_Check_Checkboxes/images/js30-day9.png)
 
 # 10 - Hold Shift to Check Multiple Checkboxes
-Select multiple checkboxes in succession by pressing the Shift key
-
+When a user clicks a checkbox and holds Shift button, then clicks another checkbox a few rows down, all the checkboxes in between those two checkboxes should be checked.
 
 
 ## Demo
