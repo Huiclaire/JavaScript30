@@ -16,7 +16,7 @@ view demo [here](https://huiclaire.github.io/JavaScript30/)
 8. [Fun with HTML5 Canvas](https://github.com/Huiclaire/JavaScript30/tree/master/08-Fun_with_HTML5_Canvas)
 9. [14 Must Know Dev Tools Tricks](https://github.com/Huiclaire/JavaScript30/tree/master/09-Dev_Tools_Domination)
 10. [Hold Shift to Check Multiple Checkboxes](https://github.com/Huiclaire/JavaScript30/tree/master/10-Hold_Shift_and_Check_Checkboxes)
-11. [Custom Video Player](https://huiclaire.github.io/JavaScript30/11-Custom_Video_Player/index.html)
+11. [Custom Video Player](https://github.com/Huiclaire/JavaScript30/tree/master/11-Custom_Video_Player)
 12. Key Sequence Detection (KONAMI CODE)
 13. Slide In on Scroll
 14. Object and Arrays - Reference VS Copy
