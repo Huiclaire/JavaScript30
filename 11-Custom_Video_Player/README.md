@@ -5,7 +5,7 @@ Customize the HTML5 Video Player with more advanced features.
 
 
 ## Demo
-view demo [here]()
+view demo [here](https://huiclaire.github.io/JavaScript30/11-Custom_Video_Player/index.html)
 
 ## Lesson learned
 - `video.paused`
